@@ -1,2 +1,2 @@
 # spider_gitblit
-python爬虫
+python spider for gitblit
